@@ -4,10 +4,10 @@
     {
       "nombre": "productos",
       "archivos": [
-        { "archivo": "productos.php", "ruta": "app/view/productos.php" },
-        { "archivo": "productoscontroller.php", "ruta": "app/controller/productoscontroller.php" },
-        { "archivo": "productosmodel.php", "ruta": "app/model/productosmodel.php" },
-        { "archivo": "productos.js", "ruta": "app/js/productos.js" }
+        { "archivo": "productos.php", "ruta": "view/productos.php" },
+        { "archivo": "productoscontroller.php", "ruta": "controller/productoscontroller.php" },
+        { "archivo": "productosmodel.php", "ruta": "model/productosmodel.php" },
+        { "archivo": "productos.js", "ruta": "js/productos.js" }
       ]
     }
   ]
