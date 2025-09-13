@@ -9,7 +9,7 @@
         { "archivo": "productosmodel.php", "ruta": "model/productosmodel.php" },
         { "archivo": "valida_productos.js", "ruta": "ajax/valida_productos.js" },
         { "archivo": "index.php", "ruta": "view/index.php" },
-        { "archivo": "actualizacion.sql", "ruta": "basededatos/actualizacionv1.sql" }
+        { "archivo": "actualizacionv1.sql", "ruta": "basededatos/actualizacionv1.sql" }
       ]
     }
   ]
