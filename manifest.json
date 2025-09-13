@@ -4,10 +4,6 @@
     {
       "nombre": "productos",
       "archivos": [
-        { "archivo": "productos.php", "ruta": "view/productos.php" },
-        { "archivo": "productoscontroller.php", "ruta": "controller/productoscontroller.php" },
-        { "archivo": "productosmodel.php", "ruta": "model/productosmodel.php" },
-        { "archivo": "valida_productos.js", "ruta": "ajax/valida_productos.js" },
         { "archivo": "actualizacionv1.sql", "ruta": "basededatos/actualizacionv1.sql" }
       ]
     }
